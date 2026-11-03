@@ -1,0 +1,22 @@
+{
+  "wheel_id": 696,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-150",
+  "project": "unfair-dismissal-lawyers-brisbane-df0fa16372f5bf491649f7d924a48",
+  "parent_t1_ref": "unfairdismissallawyersaustralia-011",
+  "node_role": "buffer",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers brisbane",
+  "intended_url": "https://sites-e470-2.web.app/unfair-dismissal-lawyers-brisbane-df0fa16372f5bf491649f7d924a48/",
+  "tier": "T2",
+  "writeback_nonce": "57bdf848de69756c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/unfair-dismissal-lawyers-brisbane/",
+      "anchor": "Unfair Dismissal Lawyers Brisbane: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
